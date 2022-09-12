@@ -109,7 +109,7 @@
 
 
 # [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/)
-# [NewPipe Github Releasea](https://github.com/TeamNewPipe/NewPipe/releases)
+# [NewPipe Github Releases](https://github.com/TeamNewPipe/NewPipe/releases)
 
 
 # [Notally](https://www.f-droid.org/packages/com.omgodse.notally/)
@@ -143,6 +143,9 @@
 
 
 # [SetEdit - Settings Database Editor](https://www.f-droid.org/packages/io.github.muntashirakon.setedit/)
+
+
+# [Setter - A multi-purpose search app for Android ](https://www.f-droid.org/packages/site.leos.setter/)
 
 
 # [Shizuku](https://android.izzysoft.de/repo/apk//moe.shizuku.privileged.api)
