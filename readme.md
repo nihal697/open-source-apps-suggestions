@@ -1,5 +1,5 @@
 # [Activity Launcher](https://www.f-droid.org/packages/de.szalkowski.activitylauncher)
-![Screenshot_20220912-210558_Trebuchet](https://user-images.githubusercontent.com/47318989/189699284-c3024c54-adbb-4991-9e3a-9f89ae334f83.png)
+
 
 # [Aegis Authenticator](https://www.f-droid.org/packages/com.beemdevelopment.aegis/)
 
@@ -168,18 +168,6 @@
 
 
 # [Yet Another SafetyNet Attestation Checker](https://apt.izzysoft.de/fdroid/index/apk/rikka.safetynetchecker)
-
-
-# []()
-
-
-# []()
-
-
-# []()
-
-
-# []()
 
 
 # []()
