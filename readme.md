@@ -75,7 +75,7 @@
 # [Infinity For Reddit](https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/)
 
 
-# [K-9 Mail]()https://www.f-droid.org/packages/com.fsck.k9/
+# [K-9 Mail](https://www.f-droid.org/packages/com.fsck.k9/)
 
 
 # [KISS Launcher](https://www.f-droid.org/packages/fr.neamar.kiss/)
