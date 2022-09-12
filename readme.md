@@ -12,6 +12,9 @@
 # [AnySoftKeyboard](https://www.f-droid.org/packages/com.menny.android.anysoftkeyboard/)
 
 
+# [App Manager](https://www.f-droid.org/packages/io.github.muntashirakon.AppManager/)
+
+
 # [Audio Recorder](https://www.f-droid.org/packages/com.github.axet.audiorecorder/)
 
 
