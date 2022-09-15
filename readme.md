@@ -48,6 +48,9 @@
 # [FastHub-RE](https://android.izzysoft.de/repo/apk/com.fastaccess.github.revival)
 
 
+# [Feeder](https://www.f-droid.org/packages/com.nononsenseapps.feeder/)
+
+
 # [Fennec F-droid](https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/)
 
 
