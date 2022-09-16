@@ -160,6 +160,9 @@
 # [Simplenote](https://android.izzysoft.de/repo/apk//com.automattic.simplenote)
 
 
+# [Telegraher](https://github.com/nikitasius/Telegraher/)
+
+
 # [Terminal Emulator](https://www.f-droid.org/packages/com.termoneplus/)
 
 
