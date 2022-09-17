@@ -36,6 +36,8 @@
 # [Droid-ify](https://android.izzysoft.de/repo/apk/com.looker.droidify)
 
 
+# [dvd](https://www.f-droid.org/packages/org.yausername.dvd/)
+
 # [Easy Diary](https://www.f-droid.org/packages/me.blog.korn123.easydiary/)
 
 
