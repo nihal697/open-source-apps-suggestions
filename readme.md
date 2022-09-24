@@ -110,6 +110,8 @@
 # [moreDays](https://www.f-droid.org/packages/de.wuapps.moredays/)
 
 
+# [Music](https://apt.izzysoft.de/fdroid/index/apk/com.zionhuang.music)
+
 # [My Brain](https://www.f-droid.org/packages/com.mhss.app.mybrain/)
 
 
