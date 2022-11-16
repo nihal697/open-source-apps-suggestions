@@ -21,13 +21,13 @@
 # [Badreads](https://www.f-droid.org/packages/com.timenotclocks.bookcase/)
 
 
-# [Beat Addiction](https://android.izzysoft.de/repo/apk/tj.beataddiction_5.apk)
+# [Beat Addiction](https://android.izzysoft.de/repo/apk/tj.beataddiction_5)
 
 
 # [Data Monitor](https://www.f-droid.org/packages/com.drnoob.datamonitor/)
 
 
-# [Data Backup](https://android.izzysoft.de/repo/apk/com.xayah.databackup_64.apk)
+# [Data Backup](https://android.izzysoft.de/repo/apk/com.xayah.databackup_64)
 
 
 # [Bettercounter](https://www.f-droid.org/packages/org.kde.bettercounter/)
@@ -36,7 +36,7 @@
 # [Blackhole](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
 
 
-# [Clock 31](https://android.izzysoft.de/repo/apk/com.dosse.clock31_2.apk)
+# [Clock 31](https://android.izzysoft.de/repo/apk/com.dosse.clock31_2)
 
 
 # [Currencies](https://www.f-droid.org/packages/de.salomax.currencies/)
@@ -93,7 +93,7 @@
 # [Hourly Reminder](https://www.f-droid.org/packages/com.github.axet.hourlyreminder/)
 
 
-# [Iconify](https://android.izzysoft.de/repo/apk/com.drdisagree.iconify_1.apk)
+# [Iconify](https://android.izzysoft.de/repo/apk/com.drdisagree.iconify_1)
 
 
 # [ImgurViewer](https://www.f-droid.org/packages/com.ensoft.imgurviewer/)
