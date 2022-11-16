@@ -21,13 +21,13 @@
 # [Badreads](https://www.f-droid.org/packages/com.timenotclocks.bookcase/)
 
 
-# [Beat Addiction](https://android.izzysoft.de/repo/apk/tj.beataddiction_5)
+# [Beat Addiction](https://apt.izzysoft.de/fdroid/index/apk/tj.beataddiction)
 
 
 # [Data Monitor](https://www.f-droid.org/packages/com.drnoob.datamonitor/)
 
 
-# [Data Backup](https://apt.izzysoft.de/fdroid/repo/com.xayah.databackup_64.apk)
+# [Data Backup](https://apt.izzysoft.de/fdroid/repo/com.xayah.databackup_64)
 
 
 
@@ -103,6 +103,9 @@
 # [Infinity For Reddit](https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/)
 
 
+
+
+
 # [K-9 Mail](https://www.f-droid.org/packages/com.fsck.k9/)
 
 
@@ -138,9 +141,6 @@
 
 # [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 (I recommend using an fdroid client and adding [DivestOS repository](https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467) in it, and downloading Mull from there as it will be updated quicker)
-
-
-# [Innertune](https://apt.izzysoft.de/fdroid/index/apk/com.zionhuang.music)
 
 
 # [My Brain](https://www.f-droid.org/packages/com.mhss.app.mybrain/)
