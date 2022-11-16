@@ -21,10 +21,22 @@
 # [Badreads](https://www.f-droid.org/packages/com.timenotclocks.bookcase/)
 
 
+# [Beat Addiction](https://android.izzysoft.de/repo/apk/tj.beataddiction_5.apk)
+
+
+# [Data Monitor](https://www.f-droid.org/packages/com.drnoob.datamonitor/)
+
+
+# [Data Backup](https://android.izzysoft.de/repo/apk/com.xayah.databackup_64.apk
+
+
 # [Bettercounter](https://www.f-droid.org/packages/org.kde.bettercounter/)
 
 
 # [Blackhole](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
+
+
+# [Clock 31](https://android.izzysoft.de/repo/apk/com.dosse.clock31_2.apk)
 
 
 # [Currencies](https://www.f-droid.org/packages/de.salomax.currencies/)
@@ -37,6 +49,7 @@
 
 
 # [dvd](https://www.f-droid.org/packages/org.yausername.dvd/)
+
 
 # [Easy Diary](https://www.f-droid.org/packages/me.blog.korn123.easydiary/)
 
@@ -51,6 +64,12 @@
 
 
 # [Feeder](https://www.f-droid.org/packages/com.nononsenseapps.feeder/)
+
+
+# [floccus bookmark sync](https://www.f-droid.org/packages/org.handmadeideas.floccus/)
+
+
+# [Fritter](https://www.f-droid.org/packages/com.jonjomckay.fritter/)
 
 
 # [Fennec F-droid](https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/)
@@ -72,6 +91,9 @@
 
 
 # [Hourly Reminder](https://www.f-droid.org/packages/com.github.axet.hourlyreminder/)
+
+
+# [Iconify](https://android.izzysoft.de/repo/apk/com.drdisagree.iconify_1.apk)
 
 
 # [ImgurViewer](https://www.f-droid.org/packages/com.ensoft.imgurviewer/)
@@ -98,6 +120,9 @@
 # [Loop Habit Tracker](https://www.f-droid.org/packages/org.isoron.uhabits/)
 
 
+# [Lunar Launcher](https://www.f-droid.org/packages/rasel.lunar.launcher/)
+
+
 # [Markor](https://www.f-droid.org/packages/net.gsantner.markor/)
 
 
@@ -110,7 +135,12 @@
 # [moreDays](https://www.f-droid.org/packages/de.wuapps.moredays/)
 
 
-# [Music](https://apt.izzysoft.de/fdroid/index/apk/com.zionhuang.music)
+# [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+(I recommend using an fdroid client and adding [DivestOS repository](https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467) in it, and downloading Mull from there as it will be updated quicker)
+
+
+# [Innertune](https://apt.izzysoft.de/fdroid/index/apk/com.zionhuang.music)
+
 
 # [My Brain](https://www.f-droid.org/packages/com.mhss.app.mybrain/)
 
