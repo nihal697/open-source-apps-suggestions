@@ -27,7 +27,7 @@
 # [Data Monitor](https://www.f-droid.org/packages/com.drnoob.datamonitor/)
 
 
-# [Data Backup](https://apt.izzysoft.de/fdroid/repo/com.xayah.databackup_64)
+# [Data Backup](https://apt.izzysoft.de/fdroid/index/apk/com.xayah.databackup_64)
 
 
 
@@ -37,7 +37,7 @@
 # [Blackhole](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
 
 
-# [Clock 31](https://android.izzysoft.de/repo/apk/com.dosse.clock31_2)
+# [Clock 31](https://apt.izzysoft.de/fdroid/index/apk/com.dosse.clock31_2)
 
 
 # [Currencies](https://www.f-droid.org/packages/de.salomax.currencies/)
@@ -94,7 +94,7 @@
 # [Hourly Reminder](https://www.f-droid.org/packages/com.github.axet.hourlyreminder/)
 
 
-# [Iconify](https://android.izzysoft.de/repo/apk/com.drdisagree.iconify_1)
+# [Iconify](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify_1)
 
 
 # [ImgurViewer](https://www.f-droid.org/packages/com.ensoft.imgurviewer/)
