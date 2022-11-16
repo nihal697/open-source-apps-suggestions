@@ -27,7 +27,8 @@
 # [Data Monitor](https://www.f-droid.org/packages/com.drnoob.datamonitor/)
 
 
-# [Data Backup](https://android.izzysoft.de/repo/apk/com.xayah.databackup_64)
+# [Data Backup](https://apt.izzysoft.de/fdroid/repo/com.xayah.databackup_64.apk)
+
 
 
 # [Bettercounter](https://www.f-droid.org/packages/org.kde.bettercounter/)
