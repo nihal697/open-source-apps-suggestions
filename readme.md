@@ -69,13 +69,13 @@
 ### [Easy Diary](https://www.f-droid.org/packages/me.blog.korn123.easydiary/)
 
 
-### [Etar](### [Etar](https://www.f-droid.org/packages/ws.xsoh.etar/))
+### [Etar](https://www.f-droid.org/packages/ws.xsoh.etar/)
 
 
 ### [Feeder](https://www.f-droid.org/packages/com.nononsenseapps.feeder/)
 
 
-### [FFShare](### [FFShare](https://www.f-droid.org/packages/com.caydey.ffshare/))
+### [FFShare](https://www.f-droid.org/packages/com.caydey.ffshare/)
 
 
 ### [floccus bookmark sync](https://www.f-droid.org/packages/org.handmadeideas.floccus/)
