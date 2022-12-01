@@ -6,6 +6,9 @@
 ### [Aegis Authenticator](https://www.f-droid.org/packages/com.beemdevelopment.aegis/)
 
 
+### [AFwall+](https://www.f-droid.org/packages/dev.ukanth.ufirewall/)
+
+
 ### [Ankidroid](https://www.f-droid.org/packages/com.ichi2.anki/)
 
 
@@ -21,19 +24,19 @@
 ### [Badreads](https://www.f-droid.org/packages/com.timenotclocks.bookcase/)
 
 
+### [BBS](https://www.f-droid.org/packages/com.asksven.betterbatterystats/)
+
+
 ### [Beat Addiction](https://apt.izzysoft.de/fdroid/index/apk/tj.beataddiction)
 
 
-### [Data Monitor](https://www.f-droid.org/packages/com.drnoob.datamonitor/)
+### [BetterCounter](https://www.f-droid.org/packages/org.kde.bettercounter/)
 
 
-### [Data Backup](https://apt.izzysoft.de/fdroid/index/apk/com.xayah.databackup)
+### [Binaural Beats](https://www.f-droid.org/packages/com.github.axet.binauralbeats/)
 
 
-### [Bettercounter](https://www.f-droid.org/packages/org.kde.bettercounter/)
-
-
-### [Blackhole](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
+### [BlackHole](https://apt.izzysoft.de/fdroid/index/apk/com.shadow.blackhole)
 
 
 ### [Clock 31](https://apt.izzysoft.de/fdroid/index/apk/com.dosse.clock31)
@@ -42,7 +45,19 @@
 ### [Currencies](https://www.f-droid.org/packages/de.salomax.currencies/)
 
 
+### [Data Monitor](https://www.f-droid.org/packages/com.drnoob.datamonitor/)
+
+
+### [Data Backup](https://apt.izzysoft.de/fdroid/index/apk/com.xayah.databackup)
+
+
+### [Disable-Flag_Secure](https://apt.izzysoft.de/fdroid/index/apk/com.varuns2002.disable_flag_secure)
+
+
 ### [Disabler](https://www.f-droid.org/packages/com.servoz.appsdisabler/)
+
+
+### [DozeOff](https://apt.izzysoft.de/fdroid/index/apk/com.dosse.dozeoff)
 
 
 ### [Droid-ify](https://android.izzysoft.de/repo/apk/com.looker.droidify)
@@ -54,22 +69,28 @@
 ### [Easy Diary](https://www.f-droid.org/packages/me.blog.korn123.easydiary/)
 
 
-### [Etar](https://www.f-droid.org/packages/ws.xsoh.etar/)
+### [Etar](### [Etar](https://www.f-droid.org/packages/ws.xsoh.etar/))
+
+
+### [Feeder](https://www.f-droid.org/packages/com.nononsenseapps.feeder/)
+
+
+### [FFShare](### [FFShare](https://www.f-droid.org/packages/com.caydey.ffshare/))
+
+
+### [floccus bookmark sync](https://www.f-droid.org/packages/org.handmadeideas.floccus/)
+
+
+### [ForkGram](https://www.f-droid.org/packages/org.forkgram.messenger/)
+
+
+### [Fritter](https://www.f-droid.org/packages/com.jonjomckay.fritter/)
 
 
 ### [F-droid Classic](https://www.f-droid.org/packages/eu.bubu1.fdroidclassic/)
 
 
 ### [FastHub-RE](https://android.izzysoft.de/repo/apk/com.fastaccess.github.revival)
-
-
-### [Feeder](https://www.f-droid.org/packages/com.nononsenseapps.feeder/)
-
-
-### [floccus bookmark sync](https://www.f-droid.org/packages/org.handmadeideas.floccus/)
-
-
-### [Fritter](https://www.f-droid.org/packages/com.jonjomckay.fritter/)
 
 
 ### [Fennec F-droid](https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/)
@@ -120,6 +141,9 @@
 ### [link eye](https://www.f-droid.org/packages/kuesji.link_eye.fdroid/)
 
 
+### [List My Apps](https://www.f-droid.org/packages/de.onyxbits.listmyapps/)
+
+
 ### [Loop Habit Tracker](https://www.f-droid.org/packages/org.isoron.uhabits/)
 
 
@@ -145,6 +169,9 @@
 ### [My Brain](https://www.f-droid.org/packages/com.mhss.app.mybrain/)
 
 
+### [Neo Backup](https://apt.izzysoft.de/fdroid/index/apk/com.machiav3lli.backup)
+
+
 ### [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/)
 
 ### [NewPipe Github Releases](https://github.com/TeamNewPipe/NewPipe/releases)
@@ -153,10 +180,16 @@
 ### [Notally](https://www.f-droid.org/packages/com.omgodse.notally/)
 
 
+### [Open Camera](https://www.f-droid.org/packages/net.sourceforge.opencamera/)
+
+
 ### [p!n](https://www.f-droid.org/packages/de.nproth.pin/)
 
 
 ### [Permission Manager X](https://www.f-droid.org/packages/com.mirfatif.permissionmanagerx/)
+
+
+### [Permission Pilot](https://apt.izzysoft.de/fdroid/index/apk/eu.darken.myperm)
 
 
 ### [Power App](https://www.f-droid.org/packages/io.github.domi04151309.powerapp/)
@@ -166,6 +199,9 @@
 
 
 ### [QKSMS](https://www.f-droid.org/packages/com.moez.QKSMS/)
+
+
+### [QR & Barcode Scanner](https://www.f-droid.org/packages/com.example.barcodescanner/)
 
 
 ### [QuickTiles](https://www.f-droid.org/packages/com.asdoi.quicktiles/)
