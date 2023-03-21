@@ -1,4 +1,4 @@
- ## Open Source apps that I personally use.
+ ## Open Source (& some closed source but trusted) apps that I personally use.
 ----
 ### [Activity Launcher](https://www.f-droid.org/packages/de.szalkowski.activitylauncher)
 
@@ -19,7 +19,7 @@
 
 
 ### [App Search](https://play.google.com/store/apps/details?id=net.pnhdroid.appsearch/) 
-(probably closed source but worth it)
+(probably closed source)
 
 
 ### [Audio Recorder](https://www.f-droid.org/packages/com.github.axet.audiorecorder/)
