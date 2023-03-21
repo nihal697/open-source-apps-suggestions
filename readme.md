@@ -211,6 +211,9 @@
 ### [QuickTiles](https://www.f-droid.org/packages/com.asdoi.quicktiles/)
 
 
+### [Save a copy](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)
+
+
 ### [Scoop](https://www.f-droid.org/packages/taco.scoop/)
 
 
