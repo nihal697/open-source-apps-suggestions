@@ -18,6 +18,10 @@
 ### [App Manager](https://www.f-droid.org/packages/io.github.muntashirakon.AppManager/)
 
 
+### [App Search](https://play.google.com/store/apps/details?id=net.pnhdroid.appsearch/) 
+(probably closed source but worth it)
+
+
 ### [Audio Recorder](https://www.f-droid.org/packages/com.github.axet.audiorecorder/)
 
 
