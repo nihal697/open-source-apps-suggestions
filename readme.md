@@ -67,6 +67,9 @@
 ### [Compass](https://www.f-droid.org/packages/com.bobek.compass/)
 
 
+### [Compressor](https://apt.izzysoft.de/fdroid/index/apk/compress.joshattic.us)
+
+
 ### [Currencies](https://www.f-droid.org/packages/de.salomax.currencies/)
 
 
@@ -136,6 +139,9 @@
 ### [ForkGram](https://www.f-droid.org/packages/org.forkgram.messenger/)
 
 
+### [Fossify Gallery](https://www.f-droid.org/packages/org.fossify.gallery/)
+
+
 ### [Fox's Magisk Module Manager](https://android.izzysoft.de/repo/apk//com.fox2code.mmm)
 
 
@@ -173,6 +179,9 @@
 
 
 ### [K-9 Mail](https://www.f-droid.org/packages/com.fsck.k9/)
+
+
+### [Kai 9000](https://www.f-droid.org/packages/com.inspiredandroid.kai/)
 
 
 ### [KeePassDX](https://apt.izzysoft.de/fdroid/index/apk/com.kunzisoft.keepass.free)
@@ -221,6 +230,9 @@
 
 
 ### [MEGA](https://play.google.com/store/apps/details?id=mega.privacy.android.app)
+
+
+### [Metrolist](https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music)
 
 
 ### [MoneyWallet](https://www.f-droid.org/packages/com.oriondev.moneywallet/)
@@ -299,6 +311,9 @@
 
 
 ### [QuickTiles](https://www.f-droid.org/packages/com.asdoi.quicktiles/)
+
+
+### [Quitter](https://www.f-droid.org/packages/com.quitter.app/)
 
 
 ### [Readest](https://github.com/readest/readest)
@@ -380,4 +395,5 @@
 
 
 ### [YTDLnis](https://www.f-droid.org/packages/com.deniscerri.ytdl/)
+
 
