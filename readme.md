@@ -322,6 +322,9 @@
 ### [Screenshot Tile (NoRoot)](https://www.f-droid.org/packages/com.github.cvzi.screenshottile/)
 
 
+### [SD Maid SE](https://www.f-droid.org/packages/eu.darken.sdmse/)
+
+
 ### [SetEdit - Settings Database Editor](https://www.f-droid.org/packages/io.github.muntashirakon.setedit/)
 
 
@@ -377,3 +380,4 @@
 
 
 ### [YTDLnis](https://www.f-droid.org/packages/com.deniscerri.ytdl/)
+
