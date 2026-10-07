@@ -277,6 +277,9 @@
 ### [OpenDocument Reader](https://www.f-droid.org/packages/at.tomtasche.reader/)
 
 
+### [Orion Store](https://github.com/RookieEnough/Orion-Store/releases)
+
+
 ### [p!n](https://www.f-droid.org/packages/de.nproth.pin/)
 
 
@@ -395,5 +398,3 @@
 
 
 ### [YTDLnis](https://www.f-droid.org/packages/com.deniscerri.ytdl/)
-
-
